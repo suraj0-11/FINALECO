@@ -322,7 +322,7 @@ html, body {
   color: var(--color-white);
   font-family: var(--font-noto-sans);
 }
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 100%) {
   .ecotest {
     background-color: #040404;
   }
