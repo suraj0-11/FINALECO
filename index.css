@@ -324,7 +324,7 @@ html, body {
 }
 @media screen and (max-width: 100%) {
   .ecotest {
-    background-color: #040404;
+    background-color: black;
   }
   .ecotest:hover {
     animation: 1s ease 0s infinite normal none shadow-inset-center;
