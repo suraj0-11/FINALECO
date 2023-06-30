@@ -252,7 +252,7 @@ html, body {
   left: 1187px;
 }
 .contact-us {
-  position: absolute;
+  position: center;
   top: 2930px;
   left: calc(50% - 246.5px);
   font-size: 70px;
